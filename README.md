@@ -330,12 +330,6 @@ Edit `client/src/index.css` to customize:
 
 ---
 
-## License
-
-MIT
-
----
-
 ## Support
 
 For issues, feature requests, or questions, please refer to the technical documentation below or review the inline code comments throughout the project.
